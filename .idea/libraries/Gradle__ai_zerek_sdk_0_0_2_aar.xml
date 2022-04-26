@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.zerek:sdk:0.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2e19622b604ddfb98548748a283e50b/jetified-sdk-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2e19622b604ddfb98548748a283e50b/jetified-sdk-0.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2e19622b604ddfb98548748a283e50b/jetified-sdk-0.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
