@@ -1,8 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79895718/120859295-d3493c80-c5a5-11eb-8975-91b92ccc4d27.png" width="72" height="72" alt="ZerekAi">
-
 # [ZerekAI Android SDK](https://zerek.ai/)
-
-[**ZerekAi**](https://zerek.ai/) is the control center for marketing campaigns in mobile applications
 
 ## Requirements
 - minSdkVersion 16
@@ -30,9 +26,9 @@ allprojects {
 
 *Do not forget to sync project with gradle files afterwards*
 
-## Adding ZerekAI API base url
+## Add ZerekAI API base URL
 
-Put API base url into your app manifest file inside `<application>` tag
+Put API base url into your app's manifest file inside `<application>` tag
 
 ```xml
 <manifest ...>
